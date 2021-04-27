@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.Form1.resources
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\bin\Debug\Cornevter.exe.config
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\bin\Debug\Cornevter.exe
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\bin\Debug\Cornevter.pdb
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.exe
+C:\Users\user\Desktop\Новая папка (2)\ThirdTry\Cornevter\obj\Debug\Cornevter.pdb
